@@ -10,4 +10,4 @@
 
 ### About author
 * 张秋怡 Joyee Cheung
-* E-mail: [joyeec9h3@gmail.com](joyeec9h3@gmail.com)
+* E-mail: [joyeec9h3@gmail.com](mailto:joyeec9h3@gmail.com)
